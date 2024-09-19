@@ -6,8 +6,5 @@ ssh user@vps-address
 ```
 其中配置项可以按需填入，tg相关的配置项不填不影响脚本运行。
 
-
-
-
-
-怎么serv00的Last Login中看不到登录信息？
+怎么serv00的Last Login中看不到登录信息？  
+我也尝试了用sshpass登录，serv00的Last Login也看不到登录信息，这算是成功登录吗？
